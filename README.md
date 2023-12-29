@@ -45,6 +45,9 @@ To create a 3D model from given orthographic projection.
 ## OUTPUT:
 ![image](https://github.com/JerowinGeo/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147139744/44a35ff2-e977-4a0a-929c-3475da3f43ea)
 
+
+
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
